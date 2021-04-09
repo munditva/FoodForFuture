@@ -10,11 +10,11 @@ future.Innovation and intelligence with proper usage of available resources is t
 need of the hour.
 
 ● To overcome this challenge, Eating and Diet habits of general people needs
-to be observed. Predict Course Type and Flavor of different cuisines based on the given 
+to be observed. Predict Course Type and Flavor of different cuisines based on the 
 Training Dataset provided
 
 According to the given Problem Statement, an Exploratory Data Analysis(EDA)
-approach comprising of analysis and visualisation of dataset is taken. Finally on
+approach comprising of analysis and importance of features and visualisation of dataset is taken. Finally on
 the processed dataset, we will apply various classification models to predict
 Course type and then compare between our accuracies across these models.
 
